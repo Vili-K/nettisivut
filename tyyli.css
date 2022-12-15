@@ -4,9 +4,10 @@
    font-style: normal;
 }
 .container {
-    width: 200px;
-    height: 400px;
-    background-color: black;
-    margin: 50px;
-    padding: 20px;
-}
+    width: 200px; height: 400px; background-color: black; margin: 50px; padding: 20px; border-width: 10px; border-color: darkred; border-style: solid; padding-bottom: 25px;}
+
+.container2 {
+    width: 220px; height: 65px; background-color: black; text-align: center; margin-left: 800px; border-width: 10px; border-color: darkred; border-style: solid; padding-bottom: 25px;}
+
+.container3 {
+    width: 220px; height: 400px; background-color: black; margin-left:400px ; padding: 20px; border-width: 10px; border-color: darkred; border-style: solid; padding-bottom: 25px;}
