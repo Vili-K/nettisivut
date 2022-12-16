@@ -5,22 +5,22 @@
 }
 
 .container_otsikko {
-    width: 220px;
+    width: 250px;
     height: 65px;
     background-color: black;
     text-align: center;
     border-width: 5px;
     border-color: darkred;
     border-style: solid;
-    padding-bottom: 25px;
     position: absolute;
+    padding-bottom: 20px;
     left: 200px;
     top: 10px;
     }
 
 .container1 {
-    width: 220px;
-    height: 400px;
+    width: 250px;
+    height: 130px;
     background-color: black;
     padding: 20px;
     border-width: 5px;
@@ -30,34 +30,39 @@
     position: static;
     left: 50px;
     top: 200px;
-    position: fixed;
+    position: absolute;
     }
 
 .container2 {
     width: 220px;
-    height: 400px;
+    height: 355px;
     background-color: black;
     padding: 20px;
     border-width: 5px;
     border-color: darkred;
     border-style: solid;
     padding-bottom: 25px;
-    position: fixed;
+    position: absolute;
     top: 200px;
-    left: 375px;
+    left: 365px;
     }
 
 .container3 {
-    width: 220px;
-    height: 400px;
+    width: 250px;
+    height: 200px;
     background-color: black;
-    padding: 20px;
+    color: white;
     border-width: 5px;
     border-color: darkred;
     border-style: solid;
-    padding-bottom: 25px;
-    position: fixed;
-    top: 200px;
-    left: 700px;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    top: 400px;
+    left: 50px;
     }
 
+.kuva_containeri {
+    position: absolute;
+    top: 830px;
+}
