@@ -2,14 +2,12 @@ body {
     background-image: url("138728.jpg");
 }
 
-.otsikko {
-    background-color: black;
-    color: red;
-   font-style: normal;
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container_otsikko {
-    width: 250px;
+    width: 275px;
     height: 65px;
     background-color: black;
     text-align: center;
