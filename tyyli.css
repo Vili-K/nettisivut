@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://github.com/Vili-K/nettisivut/blob/main/138728.jpg?raw=true);
+    background-image: url("138728.jpg");
 }
 
 .otsikko {
@@ -20,11 +20,13 @@ body {
     padding-bottom: 20px;
     left: 425px;
     top: 10px;
+    border-radius: 8px;
     }
 
 .container1 {
     width: 250px;
     height: 130px;
+    border-radius: 8px;
     background-color: black;
     padding: 20px;
     border-width: 5px;
@@ -40,6 +42,7 @@ body {
 .container2 {
     width: 220px;
     height: 355px;
+    border-radius: 8px;
     background-color: black;
     padding: 20px;
     border-width: 5px;
@@ -54,6 +57,7 @@ body {
 .container3 {
     width: 250px;
     height: 200px;
+    border-radius: 8px;
     background-color: black;
     color: white;
     border-width: 5px;
@@ -70,16 +74,18 @@ body {
     position: absolute;
     top: 455px;
     left: 935px;
+    border-radius: 8px;
 }
 .giffi {
     position: absolute;
     width: 460px;
     height: 259px;
+    border-radius: 8px;
     border-width: 5px;
     border-style: solid;
     border-color: darkred;
     top: 340px;
     left: 850px;
-    background-image: url(https://github.com/Vili-K/nettisivut/blob/main/AdolescentVelvetyIcelandicsheepdog-size_restricted.gif?raw=true);
+    background-image: url("AdolescentVelvetyIcelandicsheepdog-size_restricted.gif");
 
 }
